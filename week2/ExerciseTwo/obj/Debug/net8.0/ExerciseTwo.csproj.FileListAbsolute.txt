@@ -24,3 +24,5 @@ C:\Users\2021004935\OneDrive - Southern Institute of Technology\Projects\WebAppl
 C:\Users\2021004935\OneDrive - Southern Institute of Technology\Projects\WebApplications\reactWorks\week2\ExerciseTwo\obj\Debug\net8.0\ExerciseTwo.pdb
 C:\Users\2021004935\OneDrive - Southern Institute of Technology\Projects\WebApplications\reactWorks\week2\ExerciseTwo\obj\Debug\net8.0\ExerciseTwo.genruntimeconfig.cache
 C:\Users\2021004935\OneDrive - Southern Institute of Technology\Projects\WebApplications\reactWorks\week2\ExerciseTwo\obj\Debug\net8.0\ref\ExerciseTwo.dll
+C:\Users\2021004935\OneDrive - Southern Institute of Technology\Projects\WebApplications\reactWorks\week2\ExerciseTwo\obj\Debug\net8.0\ExerciseTwo.RazorAssemblyInfo.cache
+C:\Users\2021004935\OneDrive - Southern Institute of Technology\Projects\WebApplications\reactWorks\week2\ExerciseTwo\obj\Debug\net8.0\ExerciseTwo.RazorAssemblyInfo.cs
